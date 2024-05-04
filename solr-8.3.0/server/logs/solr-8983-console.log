@@ -1,0 +1,16 @@
+[0.001s][warning][pagesize] UseLargePages disabled, no large pages configured and available on the system.
+2024-05-04 07:53:47.251 INFO  (main) [   ] o.e.j.u.log Logging initialized @652ms to org.eclipse.jetty.util.log.Slf4jLog
+2024-05-04 07:53:47.305 WARN  (main) [   ] o.e.j.x.XmlConfiguration Deprecated method public void org.eclipse.jetty.rewrite.handler.RedirectRegexRule.setReplacement(java.lang.String) in file:///home/clement/solr-8.3.0/server/etc/jetty.xml
+2024-05-04 07:53:47.338 WARN  (main) [   ] o.e.j.s.AbstractConnector Ignoring deprecated socket close linger time
+2024-05-04 07:53:47.339 WARN  (main) [   ] o.e.j.x.XmlConfiguration Deprecated method public void org.eclipse.jetty.server.ServerConnector.setSoLingerTime(int) in file:///home/clement/solr-8.3.0/server/etc/jetty-http.xml
+2024-05-04 07:53:47.345 INFO  (main) [   ] o.e.j.s.Server jetty-9.4.19.v20190610; built: 2019-06-10T16:30:51.723Z; git: afcf563148970e98786327af5e07c261fda175d3; jvm 17.0.10+7-Ubuntu-122.04.1
+2024-05-04 07:53:47.355 INFO  (main) [   ] o.e.j.d.p.ScanningAppProvider Deployment monitor [file:///home/clement/solr-8.3.0/server/contexts/] at interval 0
+2024-05-04 07:53:47.488 INFO  (main) [   ] o.e.j.w.StandardDescriptorProcessor NO JSP Support for /solr, did not find org.apache.jasper.servlet.JspServlet
+2024-05-04 07:53:47.495 INFO  (main) [   ] o.e.j.s.session DefaultSessionIdManager workerName=node0
+2024-05-04 07:53:47.495 INFO  (main) [   ] o.e.j.s.session No SessionScavenger set, using defaults
+2024-05-04 07:53:47.497 INFO  (main) [   ] o.e.j.s.session node0 Scavenging every 600000ms
+2024-05-04 07:53:47.532 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter Using logger factory org.apache.logging.slf4j.Log4jLoggerFactory
+2024-05-04 07:53:47.533 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter  ___      _       Welcome to Apache Solr™ version 8.3.0
+2024-05-04 07:53:47.533 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter / __| ___| |_ _   Starting in standalone mode on port 8983
+2024-05-04 07:53:47.534 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter \__ \/ _ \ | '_|  Install dir: /home/clement/solr-8.3.0
+2024-05-04 07:53:47.534 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter |___/\___/_|_|    Start time: 2024-05-04T07:53:47.534113695Z

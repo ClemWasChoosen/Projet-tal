@@ -1,0 +1,8 @@
+<add>
+  <doc>
+    <field name="category">sports</field>
+    <field name="headline">Les joueurs de football travaillent-ils trop?</field>
+    <field name="text">Après la CAN et la Copa America, certains internationaux ont eu une intersaison de deux semaines voire moins. Le Sénégalais Sadio Mané, par exemple, a joué une saison à rallonge d'environ 70 matchs en près de 13 mois, ce que n'a pas manqué de souligner avec consternation Jürgen Klopp, son manager à Liverpool. Conscient du problème, le syndicat des footballeurs FIFPRO tire la sonnette d'alarme dans un récent rapport et recommande une période de repos obligatoire. Dans ce reportage de Babacar Diarra, Alassane Ndour, ancien international sénégalais, proposera aussi un emploi du temps pour réduire la fatigue chez les footballeurs. Un reportage de l'émission BBC Sport Afrique.</field>
+    <field name="url">https://www.bbc.com/afrique/sports-49334543</field>
+  </doc>
+</add>

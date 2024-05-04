@@ -1,0 +1,36 @@
+#set($docId = $doc.getFirstValue($request.schema.uniqueKeyField.name))
+
+
+<div class="result-document">
+  #set( $keeps = ["category", "headline", "text", "score"] )
+
+  <table>
+    #foreach( $fieldName in $doc.fieldNames )
+      #if($keeps.contains($fieldName))
+        <tr>
+          <th align="right" valign="top" style="field-name">
+            $esc.html($fieldName):
+          </th> 
+
+          <td align="left" valign="top">
+            #field($fieldName)
+          </td>
+        </tr>
+      #end  
+    #end
+    <tr>
+      <th align="right">lien:</th>
+      <td>
+        <a href="$doc.getFieldValue('url')[0]" target="_blank">$doc.getFieldValue('url')[0]</a>
+      </td>
+    </tr>
+  </table>
+
+  #if($debug)
+    <a href="#" onclick='jQuery(this).siblings("pre").toggle(); return false;'>toggle explain</a>
+
+    <pre style="display:none">
+      $response.getExplainMap().get($docId)
+    </pre>
+  #end
+</div>

@@ -1,0 +1,8 @@
+<add>
+  <doc>
+    <field name="category">sports</field>
+    <field name="headline">Coupe du monde basket: la France élimine les Etats-Unis</field>
+    <field name="text">En quart de finale de la Coupe du monde de basket-ball en Chine, mercredi, les Etats-Unis ont subi une défaite surprise de 89-79 contre la France. Les Etats-Unis avaient remporté les deux dernières Coupes du Monde et n'avaient pas perdu en 58 matches internationaux, une série qui remonte à 2006. La France menait 51-41 au troisième quart-temps avant que les Etats-Unis ne prennent une avance de 72-65, mais les Français se sont battus pour remporter la victoire. Evan Fournier a marqué 22 points, tandis que Rudy Gobert a terminé avec 21 points. La France affrontera l'Argentine en demi-finale vendredi, tandis que l'Espagne affrontera l'Australie ou la République tchèque dans l'autre match. C'est la première fois que les Etats-Unis ne remportent pas de médaille à la Coupe du Monde depuis 2002, date à laquelle ils avaient terminé sixième. En plus d'avoir remporté les deux dernières Coupes du monde, ils ont également remporté les trois derniers titres olympiques.</field>
+    <field name="url">https://www.bbc.com/afrique/sports-49665004</field>
+  </doc>
+</add>

@@ -1,0 +1,8 @@
+<add>
+  <doc>
+    <field name="category">sports</field>
+    <field name="headline">Coupe du monde Qatar 2022 - Calendrier des matchs et résultats en direct</field>
+    <field name="text">Suivez en temps réel les résultats des matchs et les rencontres de la Coupe du monde de football au Qatar.</field>
+    <field name="url">https://www.bbc.com/afrique/sports-63642022</field>
+  </doc>
+</add>

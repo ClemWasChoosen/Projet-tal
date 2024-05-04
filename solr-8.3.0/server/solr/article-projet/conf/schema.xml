@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf8'?>
+<add>
+  <doc>
+    <field name="title">Wauquiez: l'annonce de Collomb, "surréaliste", montre "l'affaiblissement" de Macron</field>
+    <field name="id">train.tsv</field>
+    <field name="description"><![CDATA[
+Paris (AFP) - L'annonce "surréaliste" de Gérard Collomb, qui a dit son intention de quitter le gouvernement en 2019 pour mener campagne municipale à Lyon, démontre "l'affaiblissement" d'Emmanuel Macron, a jugé mardi Laurent Wauquiez, président des Républicains (LR) et de la région Auvergne-Rhône-Alpes.
+"Penser qu'on puisse avoir un ministre de l'Intérieur à mi-temps montre bien la déconnexion du pouvoir sur l'insécurité subie par les Français", a déclaré M. Wauquiez lors de la réunion du groupe LR à l'Assemblée, selon des participants.
+]]></field>
+    <field name="url">http://localhost:8983/solr/eufr/browse?q=id:eupr_000002.xml</field>
+    <field name="pdate">2018-09-18T00:00:00Z</field>
+    <field name="pubname">AFP Doc</field>
+    <field name="section">Inconnu</field>
+    <field name="enti_date">mai</field>
+    <field name="enti_person">Gérard Collomb</field>
+    <field name="enti_person">Laurent Wauquiez</field>
+    <field name="enti_date">2019</field>
+    <field name="enti_date">mardi</field>
+    <field name="enti_person">Emmanuel Macron</field></doc>
+</add>
+
